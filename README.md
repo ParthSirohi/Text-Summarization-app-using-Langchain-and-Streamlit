@@ -1,5 +1,7 @@
 # Text-Summarization-app-using-Langchain-and-Streamlit
 
+Access the app: https://ewi43ub8ykl2p6lwesy84f.streamlit.app/
+
 This is a simple and interactive web application that allows users to summarize large blocks of text using powerful LLMs via Langchain and a user-friendly Streamlit interface.
 🚀 Features
 
